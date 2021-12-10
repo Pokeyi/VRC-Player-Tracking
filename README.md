@@ -4,7 +4,7 @@ Local player body-part tracking for VRChat.
 ![Player Tracking](P_PlayerTracking.png)
 
 ## Overview
-VRC Player-Tracking is a single configurable UdonSharp behaviour that can be used to track specific player avatar body parts and bones as well as smoothly attach game objects to those positions.
+VRC Player Tracking is a single configurable UdonSharp behaviour that can be used to track specific player avatar body parts and bones as well as smoothly attach game objects to those positions.
 
 It is intended to be efficient and relatively simple to use without the need for any additional editor scripts or dependencies outside of UdonSharp. All configuration can be done within the Unity Inspector window without the need for any programming, Udon, or SDK knowledge. That said, the source code is cleanly-organized and commented in the hopes of also being a good learning tool.
 
@@ -23,12 +23,12 @@ Other useful VRChat world-creation tools that I will always recommend.
 Make sure you have already imported the VRChat Worlds SDK and UdonSharp into your project.
 - Download the latest [Unity Package](https://github.com/Pokeyi/VRC-Player-Tracking/releases) and import it into your project.
 - A pre-configured example prefab is included that you can drop into your scene if you like.
-- Create and select an empty game object and add the P_PlayerTracking behaviour via the Unity Inspector window or 'Component > Pokeyi.VRChat > P.VRC Player-Tracking' toolbar menu.
+- Create and select an empty game object and add the P_PlayerTracking behaviour via the Unity Inspector window or 'Component > Pokeyi.VRChat > P.VRC Player Tracking' toolbar menu.
 - Click the 'Convert to UdonBehaviour' button if prompted.
 - Configure the rest of the behaviour's properties in the Inspector window as you see fit. Each of these is explained in detail further below.
 
 ## Features
-The main features of Player-Tracking.
+The main features of Player Tracking.
 - Use-Attachments Toggle - Toggle the use of attachments to tracked positions.
 - Attachment Positions - Assign which game objects will be attached to which positions.
 
