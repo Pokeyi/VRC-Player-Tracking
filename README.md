@@ -50,6 +50,7 @@ The following avatar body parts and bones have attachment positions included in 
 - Right Lower Leg - Bone Position
 - Left Upper Leg - Bone Position
 - Right Upper Leg - Bone Position
+- Chest - Bone Position
 
 ### Use Case Examples
 Attachments should follow movements smoothly without jittering or rubber-banding, though performance may vary by use case.
