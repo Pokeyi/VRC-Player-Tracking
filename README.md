@@ -1,7 +1,7 @@
 # VRC-Player-Tracking [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Player-Tracking/total?logo=github)](https://github.com/Pokeyi/VRC-Player-Tracking/releases)
 Local player body-part tracking for VRChat.
 
-![Player Tracking](P_Player-Tracking.png)
+![Player Tracking](P_PlayerTracking.png)
 
 ## Overview
 VRC Player-Tracking is a single configurable UdonSharp behaviour that can be used to track specific player avatar body parts and bones as well as smoothly attach game objects to those positions.
@@ -23,7 +23,7 @@ Other useful VRChat world-creation tools that I will always recommend.
 Make sure you have already imported the VRChat Worlds SDK and UdonSharp into your project.
 - Download the latest [Unity Package](https://github.com/Pokeyi/VRC-Player-Tracking/releases) and import it into your project.
 - A pre-configured example prefab is included that you can drop into your scene if you like.
-- Create and select an empty game object and add the P_Player-Tracking behaviour via the Unity Inspector window or 'Component > Pokeyi.VRChat > P.VRC Player-Tracking' toolbar menu.
+- Create and select an empty game object and add the P_PlayerTracking behaviour via the Unity Inspector window or 'Component > Pokeyi.VRChat > P.VRC Player-Tracking' toolbar menu.
 - Click the 'Convert to UdonBehaviour' button if prompted.
 - Configure the rest of the behaviour's properties in the Inspector window as you see fit. Each of these is explained in detail further below.
 
