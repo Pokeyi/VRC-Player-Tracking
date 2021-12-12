@@ -1,4 +1,4 @@
-# 🚧 VRC-Player-Tracking [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Player-Tracking/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Player-Tracking/releases)
+# 🚧 VRC-Player-Tracking <!-- [![Downloads](https://img.shields.io/github/downloads/Pokeyi/VRC-Player-Tracking/total?label=Downloads&logo=github)](https://github.com/Pokeyi/VRC-Player-Tracking/releases) -->
 Local player body-part tracking for VRChat.
 
 ![Player Tracking](P_PlayerTracking.png)
