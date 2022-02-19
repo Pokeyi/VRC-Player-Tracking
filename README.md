@@ -20,6 +20,7 @@ Errors regarding functions not being exposed likely mean you need an updated ver
 Other useful VRChat world-creation tools that I will always recommend.
 - [World Creator Assistant](https://github.com/Varneon/WorldCreatorAssistant) (SDK & Package Management)
 - [CyanEmu](https://github.com/CyanLaser/CyanEmu) (Unity-Window Testing)
+- [VRWorld Toolkit](https://github.com/oneVR/VRWorldToolkit) (World Debugger)
 
 ### Setup
 Make sure you have already imported the VRChat Worlds SDK and UdonSharp into your project.
@@ -61,7 +62,7 @@ Attachments should follow movements smoothly without jittering or rubber-banding
 - Hide invisible cubes named after your friends inside every part of your body. No one will ever see them, but you'll know.
 
 ## Credit & Support
-Please credit me as Pokeyi if you use my work. I would also love to see your creations that make use of it if you're inclined to share. This and [related projects](https://github.com/Pokeyi/pokeyi.github.io#my-projects) at release have involved over three months of solid work and self-education as I strive for an opportunity to change careers and make a better life for myself. If you find value in my work, please consider supporting me, I appreciate it more than you can imagine!
+Please credit me as Pokeyi if you use my work. I would also love to see your creations that make use of it if you're inclined to share. This and [related projects](https://github.com/Pokeyi/pokeyi.github.io#my-projects) have involved many months of solid work and self-education as I strive for an opportunity to change careers and make a better life for myself. If you find value in my work, please consider supporting me, it would truly help a lot.
 
 [![Patreon](https://img.shields.io/badge/Patreon-Support-red?logo=patreon)](https://patreon.com/pokeyi)
 
